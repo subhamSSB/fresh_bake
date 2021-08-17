@@ -3,9 +3,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-        section#home{
-            background-image: url("/img/fresh_bake.jpg");
-        }
         .navbar {
             display: flex;
             align-items: center;
@@ -44,7 +41,7 @@
         }
         
         #home {
-            background: url('./img/download.jpg');
+            background: url('/img/fresh.png');
             background-position: center center;
             background-size: cover;
             height: 100vh;
